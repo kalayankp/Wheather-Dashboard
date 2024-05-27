@@ -1,0 +1,22 @@
+.farmer-view {
+    background-color: #e6f7ff;
+    padding: 20px;
+    border-radius: 10px;
+    box-shadow: 0 4px 8px rgba(0, 0, 0, 0.1);
+    margin-top: 20px;
+  }
+  
+  .farmer-view h2 {
+    color: #0073e6;
+  }
+  
+  .farmer-view p {
+    font-size: 1.2em;
+    color: #333;
+  }
+  
+  .farmer-view span {
+    font-size: 1em;
+    color: #555;
+  }
+  

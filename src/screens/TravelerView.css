@@ -1,0 +1,21 @@
+.traveler-view {
+  padding: 20px;
+  border: 1px solid #4b0daf;
+  border-radius: 5px;
+  margin-bottom: 20px;
+  background-color: #7839c0; /* Light cyan background color */
+}
+
+.traveler-view h2 {
+  font-size: 1.5em;
+  color: #333;
+}
+
+.traveler-view p {
+  font-size: 1.2em;
+  color: #555;
+}
+
+.traveler-view p.alert {
+  color: red;
+}
